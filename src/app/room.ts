@@ -1,3 +1,3 @@
 export interface Room {
-    room: number; details: { id: number; name: string; };
+    id: number; beds: [{ age: number; name: string; }];
 }
