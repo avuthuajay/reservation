@@ -1,0 +1,31 @@
+{
+    "rooms":[
+        {
+            "room": 1,
+            "details": [
+                {
+                    "name":"Ajay",
+                    "age": 33
+                }
+            ]
+        },
+        {
+            "room": 2,
+            "details": [
+                {
+                    "name":"Ajay",
+                    "age": 33
+                }
+            ]
+        },
+        {
+            "room": 3,
+            "details": [
+                {
+                    "name":"Ajay",
+                    "age": 33
+                }
+            ]
+        }
+    ]
+}
