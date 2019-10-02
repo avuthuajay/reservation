@@ -1,28 +1,52 @@
 {
     "rooms":[
         {
-            "room": 1,
-            "details": [
+            "id": 1,
+            "beds": [
                 {
-                    "name":"Ajay",
+                    "name":"A1",
+                    "age": 33
+                },
+                {
+                    "name":"A2",
+                    "age": 33
+                },
+                {
+                    "name":"A3",
                     "age": 33
                 }
             ]
         },
         {
-            "room": 2,
-            "details": [
+            "id": 2,
+            "beds": [
                 {
-                    "name":"Ajay",
+                    "name":"B1",
+                    "age": 33
+                },
+                {
+                    "name":"B2",
+                    "age": 33
+                },
+                {
+                    "name":"B3",
                     "age": 33
                 }
             ]
         },
         {
-            "room": 3,
-            "details": [
+            "id": 3,
+            "beds": [
                 {
-                    "name":"Ajay",
+                    "name":"C1",
+                    "age": 33
+                },
+                {
+                    "name":"C2",
+                    "age": 33
+                },
+                {
+                    "name":"C3",
                     "age": 33
                 }
             ]
